@@ -1,6 +1,8 @@
 # CSCI 5828 - FALL 2015
 ## Homework 2
 ### Nehal Kamat | Siddharth Pant | Saish Redkar
+### Submitted by Nehal Kamat  
+
 git init  
 git remote add origin git@github.com:polygonzen/CSCI-5828-FALL-15.git  
 
