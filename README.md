@@ -54,8 +54,14 @@ git commit -m "Commit 11" &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 git push origin bug-fix  
 [pull request to Siddharth]
 
+**[Nehal's commits]**
+vi Homework_2.md [on master branch]  
+git add Homework_2.md  
+git commit -m "Commit 10" &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	[Edit 10]  
+git push origin master
+
 **[Siddharth's commits on his fork]**  
-[pull requests merged]  
+[pull request from Saish merged]  
 git checkout bug-fix  
 vi Homework_2.md		
 git add Homework_2.md  
